@@ -1,3 +1,7 @@
+## Vercel 在线部署体验
+`https://mei-zu-static-page-4u6ztjk0v-labulaka8.vercel.app/`
+
+
 ## 页面缩略图
 
 
